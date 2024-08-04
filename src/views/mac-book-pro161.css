@@ -1,0 +1,74 @@
+.mac-book-pro161-container {
+  min-height: 100vh;
+  background-size: cover;
+  background-image: url("/vector_smart_object-200h.png");
+}
+.mac-book-pro161-container1 {
+  top: 0;
+  width: 100%;
+  display: flex;
+  z-index: 1000;
+  position: sticky;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+.mac-book-pro161-image {
+  top: 30px;
+  left: 0px;
+  right: 0px;
+  width: var(--dl-size-size-xxlarge);
+  margin: auto;
+  position: absolute;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.mac-book-pro161-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+}
+.mac-book-pro161-text {
+  width: 242px;
+  display: inline-block;
+  font-size: 25px;
+}
+.mac-book-pro161-text03 {
+  display: inline-block;
+  text-align: center;
+}
+.mac-book-pro161-text15 {
+  width: 280px;
+  display: inline-block;
+  font-size: 25px;
+}
+.mac-book-pro161-text18 {
+  display: inline-block;
+  text-align: center;
+}
+.mac-book-pro161-text30 {
+  width: 242px;
+  display: inline-block;
+  font-size: 25px;
+  text-align: center;
+}
+.mac-book-pro161-text33 {
+  width: 280px;
+  display: inline-block;
+  font-size: 25px;
+  text-align: center;
+}
+.mac-book-pro161-text34 {
+  display: inline-block;
+  font-size: 16px;
+}
+.mac-book-pro161-text48 {
+  display: inline-block;
+  font-size: 16px;
+}
